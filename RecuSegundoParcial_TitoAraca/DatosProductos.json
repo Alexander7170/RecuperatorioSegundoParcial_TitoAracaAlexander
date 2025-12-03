@@ -1,0 +1,18 @@
+[
+  {
+    "tipoAdvertencia": "DELICADO",
+    "tipoProducto": "QUIMICO",
+    "nombre": "31",
+    "concentracion": 233,
+    "fechaVencimiento": 223,
+    "Clase": "Models.ProductoQuimico"
+  },
+  {
+    "tipoAdvertencia": "DELICADO",
+    "tipoProducto": "QUIMICO",
+    "nombre": "23",
+    "concentracion": 23,
+    "fechaVencimiento": 55,
+    "Clase": "Models.ProductoQuimico"
+  }
+]
